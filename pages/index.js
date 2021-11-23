@@ -23,6 +23,12 @@ export default function Home() {
         <br />
         <br />
         This is a recreation of a previous version that was not open source and is old.
+        <br />
+        <br />
+        View this project on GitHub at <a style={{
+          color: 'black',
+          textDecoration: 'underline'
+        }} href="https://github.com/yodalightsabr/studyspot">@YodaLightsabr/studyspot</a>.
       </Hero>
 
     </div>
